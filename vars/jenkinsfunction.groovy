@@ -1,4 +1,4 @@
-def jenkinsfunction() { 
+def call() { 
 
 print ("kritika this side") 
 
