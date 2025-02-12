@@ -1,3 +1,3 @@
-def sayHello() {
+def print() {
    print("saying Hello")
 }
